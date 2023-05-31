@@ -1,6 +1,13 @@
 # upgrade_your_brain
 
-A new Flutter project.
+You can upgrade your brain by just using this app.
+
+## Development
+
+### Build and run
+```shell
+flutter run
+```
 
 ## Getting Started
 
